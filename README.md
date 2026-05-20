@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Qué onda! Soy Rony, Desarrollador Full-Stack, Domador de Hardware y experto en romper producción los viernes a las 5 PM. 😈 Me apasiona crear arquitecturas que ni yo entiendo al mes siguiente y resolver problemas que yo mismo provoqué.
+¡Qué onda! Soy Rony, Desarrollador Full-Stack, Domador de Hardware y experto en romper producción los viernes. 😈 Me apasiona crear arquitecturas que ni yo entiendo al mes siguiente y resolver problemas que yo mismo provoqué.
 
 🔭 **I’m currently working on:** Mantenerme cuerdo mientras peleo con monorepos en Go y Next.js, y asegurándome de no volver a subir mis llaves de Supabase a un repositorio público (sí... me pasó 💀).
 
